@@ -1,2 +1,2 @@
 # Snap-n-Order
-Smart phone camera QR Code software to help restaurants stay sage during Covid-19
+Smart phone camera QR Code software to help restaurants stay safe during Covid-19
